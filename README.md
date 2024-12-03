@@ -1,7 +1,7 @@
 
 # Journal.ai - Audio Journaling and Transcription System
 
-## Overview
+## About This Repository
 Journal.ai is a Python-based journaling system that combines audio recording, transcription, and AI-powered content generation to help users document their daily activities. The project is portable, using relative paths to ensure compatibility across different environments.
 
 ## Features
